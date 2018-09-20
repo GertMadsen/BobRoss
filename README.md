@@ -26,5 +26,5 @@ Plotting saved as 'most_used_words.png'.
 ### The 'BobRoss.txt' file should be downloaded to the folder.
 ### Also the plotting image should be found in png format as 'most_used_words.png'.
 
-![Teamwork](https://github.com/MikkelHansen95/dataset/blob/master/teamwork.gif)
+![Plotting](https://github.com/GertMadsen/pictures/blob/master/most_used_words.png)
 

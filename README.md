@@ -8,7 +8,7 @@
 * Clone the project into your own computer.
 * How to use the program:
   * In a command prompt or bash with python available use following command together with the url from above:
-  * python bob_ross.py https://github.com/HawkDon/Python_Assignment1/blob/master/BobRoss.txt
+  * python bob_ross.py https://raw.githubusercontent.com/HawkDon/Python_Assignment1/master/BobRoss.txt
   
 ### Using the program should result in the following output:
 

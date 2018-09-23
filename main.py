@@ -90,7 +90,8 @@ if __name__ == '__main__':
     print("\nThe word 'RUINED' occurs " + str(count_word_apperance(content, 'RUINED')) + " times in the chat.")
     print("\n" + str(count_after_5pm(content)) + " messages are written after 5pm.")
     print("\nThere are " +str(count_users(content)) + " different users who wrote in the chat.")
-    print("\nThe most used word in the chat is '" + find_most_used_word(content) + "' and it occurs " + str(count_word_apperance(content, 'KappaRoss')) + " times in the chat.")
+    most_used_word = find_most_used_word(content)
+    print("\nThe most used word in the chat is '" + most_used_word + "' and it occurs " + str(count_word_apperance(content, most_used_word)) + " times in the chat.")
    
     plot_20_most_used_words(content)
     

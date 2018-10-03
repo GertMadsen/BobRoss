@@ -1,4 +1,4 @@
-# Python Assignment 1
+# Python Assignment 2
 ### Analyzing [BobRoss.txt](https://github.com/HawkDon/Python_Assignment1)
 
 * This program analyzes the BobRoss.txt file in order to determine things like number of lines in the file, how many times a certain word appears, how many lines have been written after a given time, and which words are the most used.
